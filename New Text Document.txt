@@ -1,0 +1,24 @@
+games-collection/
+│
+├── index.html (الصفحة الرئيسية)
+├── style.css (التصميم الموحد)
+├── games.js (الوظائف المشتركة)
+│
+├── games/
+│   ├── xo/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   └── script.js
+│   │
+│   ├── memory/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   └── script.js
+│   │
+│   └── tic-tac-toe/
+│       ├── index.html
+│       ├── style.css
+│       └── script.js
+│
+└── assets/
+    └── images/
